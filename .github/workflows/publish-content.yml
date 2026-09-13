@@ -1,4 +1,4 @@
-name: Publish Hugo content
+name: Deploy Hugo site to Pages
 
 on:
   push:
@@ -13,10 +13,12 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: publish-hugo-content
+  group: github-pages
   cancel-in-progress: true
 
 jobs:
@@ -35,10 +37,20 @@ jobs:
           extended: true
 
       - name: Build the published site
-        run: hugo --minify
+        run: hugo --minify --cleanDestinationDir
 
-      - name: Commit generated site files
-        uses: stefanzweifel/git-auto-commit-action@v6
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          commit_message: "Publish Hugo site"
-          file_pattern: docs
+          path: ./docs
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
