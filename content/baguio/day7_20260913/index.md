@@ -5,20 +5,28 @@ tags:
 - baguio
 ---
 
-I went to North Haven Spa with Akiha and Honora today. My teacher and so many students had recommended it, and now I totally get why.
-The massage was surprisingly affordable but still really good quality. A 1-hour-and-45-minute massage was only 1,400 PHP (3,461 JPY), which is about half the price of what I’d pay in Japan.
+I went to North Haven Spa with Akiha and Honora today.  
+My teacher and so many students had recommended it, and now I totally get why.  
+The massage was surprisingly affordable but still really good quality.  
+A 1-hour-and-45-minute massage was only 1,400 PHP (3,461 JPY), which is about half the price of what I’d pay in Japan.  
 I’m definitely going back next week!
 
 ![A variety of body scrubs at North Haven Spa](<A variety of body scrubs at North Haven Spa.jpeg>)
 
-After that, I had dinner at Omu Philippines. The omurice was delicious and pretty similar to what I’d get in Japan, except the rice inside was different. Instead of the usual ketchup rice, it had seasoned, brown-colored rice with edamame in it. It reminded me a little of Japanese takikomi gohan.
+After that, I had dinner at Omu Philippines.  
+The omurice was delicious and pretty similar to what I’d get in Japan, except the rice inside was different.  
+Instead of the usual ketchup rice, it had seasoned, brown-colored rice with edamame in it.  
+It reminded me a little of Japanese takikomi gohan.
 
-After dinner, I worked on my homework and somehow ended up spending FOUR HOURS on IELTS Writing Task 2. How did that even happen? 😂
+After dinner, I worked on my homework and somehow ended up spending FOUR HOURS on IELTS Writing Task 2.  
+How did that even happen? 😂
 
 ![Tonkatsu omurice at Omu Philippines](<Tonkatsu omurice at Omu Philippines.jpeg>)
 
-There were also some students studying in the self-study room. I really admire their dedication.
-Seeing them made me want to study harder too. Time to get serious from tomorrow!
+There were also some students studying in the self-study room.  
+I really admire their dedication.  
+Seeing them made me want to study harder too.  
+Time to get serious from tomorrow!
 
 
 <details>
