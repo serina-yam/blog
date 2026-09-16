@@ -16,6 +16,11 @@ iframe {
     border: 1px solid var(--border);
 }
 
+.post-content video {
+    display: block;
+    max-width: 100%;
+}
+
 .post-content .photo-with-label {
     display: block;
     margin: 1rem 0 var(--content-gap);
