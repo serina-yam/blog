@@ -24,11 +24,11 @@ I’ve got a lot more vocabulary to learn, so I’d better get studying!
 <details>
   <summary>Meals</summary>
 
-![breakfast](breakfast.jpg)
+![breakfast](breakfast.JPG)
 
-![lunch](lunch.jpg)
+![lunch](lunch.JPG)
 
-![dinner](dinner.jpg)
+![dinner](dinner.JPG)
 
 </details>
 
