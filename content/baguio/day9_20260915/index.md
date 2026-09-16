@@ -12,11 +12,11 @@ I had originally booked a three-bed room for two weeks and a four-bed room for t
 But honestly, I wanted to stay in the same room for the whole month, so this worked out perfectly.  
 Lucky me!
 
-<video controls src="PINES.MOV" title="Title"></video>
+<video controls src="Outdoor space at PINES.MOV" title="Outdoor space at PINES"></video>
 
 We also had a power outage for about three minutes today.
 
-<video controls src="power outage.MOV" title="Title"></video>
+<video controls src="A short power outage at PINES.MOV" title="A short power outage at PINES"></video>
 
 Recently, I’ve noticed that I can catch more English words than before when listening to podcasts and watching vlogs.  
 I still can’t understand everything they say, but I feel like I’m making progress little by little.
