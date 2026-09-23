@@ -28,9 +28,9 @@ Look how cute it is!! 🐈💤
 <details>
   <summary>Meals</summary>
 
-![breakfast](breakfast.jpg)
+![breakfast](breakfast.JPG)
 
-![dinner](dinner.jpg)
+![dinner](dinner.JPG)
 
 ![bibimbap](bibimbap.JPG)
 
