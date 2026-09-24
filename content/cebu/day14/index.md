@@ -3,6 +3,7 @@ title: "Day 14"
 date: 2024-05-26T22:27:00+08:00
 tags:
 - Cebu
+- weekend
 ---
 
 

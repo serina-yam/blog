@@ -3,6 +3,7 @@ title: "Day 6"
 date: 2024-05-18T23:56:00+08:00
 tags:
 - Cebu
+- weekend
 ---
 
 It was first weekend in Cebu.  

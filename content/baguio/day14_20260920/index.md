@@ -3,6 +3,7 @@ title: "Day 14"
 date: 2026-09-20T19:00:00+08:00
 tags:
 - baguio
+- weekend
 ---
 
 I started my morning with a coffee and a ridiculously huge cookie.  

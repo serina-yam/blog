@@ -3,6 +3,7 @@ title: "Day 7"
 date: 2024-05-19T19:36:00+08:00
 tags:
 - Cebu
+- weekend
 ---
 
 I went to Cebu City alone at my own pace because I was not feeling well.

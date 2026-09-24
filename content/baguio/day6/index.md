@@ -3,6 +3,7 @@ title: "Day 6"
 date: 2026-09-12T19:00:00+08:00
 tags:
 - baguio
+- weekend
 ---
 
 I went to a cafe near the school with Akiha, Nao, and Wendy in the morning.  

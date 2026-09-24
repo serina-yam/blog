@@ -3,6 +3,7 @@ title: "Day 13"
 date: 2024-05-25T23:56:00+08:00
 tags:
 - Cebu
+- weekend
 ---
 
 I went to Bohol Island with my boyfriend.  

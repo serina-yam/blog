@@ -3,6 +3,7 @@ title: "Day 0"
 date: 2024-05-12T22:16:00+08:00
 tags:
 - Cebu
+- weekend
 ---
 
 

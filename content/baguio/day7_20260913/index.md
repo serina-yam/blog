@@ -3,6 +3,7 @@ title: "Day 7"
 date: 2026-09-13T19:00:00+08:00
 tags:
 - baguio
+- weekend
 ---
 
 I went to North Haven Spa with Akiha and Honora today.  

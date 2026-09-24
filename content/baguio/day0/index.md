@@ -3,6 +3,7 @@ title: "Day 0"
 date: 2026-09-06T19:00:00+08:00
 tags:
 - baguio
+- weekend
 ---
 
 I moved to Baguio from Manila in a van.  
