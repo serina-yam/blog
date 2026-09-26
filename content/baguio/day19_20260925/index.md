@@ -13,18 +13,18 @@ Before setting off, I had udon at Marugame Seimen.
 It was surprisingly similar to the udon in Japan.  
 I ordered niku udon this time, but I would love to try a lighter udon with dashi broth next time.
 
-![Stacks of patterned bowls and freshly prepared udon noodles at Marugame Seimen](marugame_1.JPG)
+![freshly prepared udon noodles at Marugame Seimen](marugame_1.JPG)
 
 ![A bowl of niku udon topped with beef, green onions, and tempura on the side](marugame_2.JPG)
 
 The bus terminal was a little narrow and old-fashioned, but that somehow made the journey feel even more adventurous.  
 Banaue had been on my travel wish list for a long time, so I could hardly contain my excitement.
 
-![Entrance to the Ohayami Trans bus terminal, with a sign for buses to Banaue and Lagawe](Ohayami Trans_1.JPG)
+![Entrance to the Ohayami Trans bus terminal, with a sign for buses to Banaue and Lagawe](<Ohayami Trans_1.JPG>)
 
-![A narrow corridor leading to the Ohayami Trans booking office](Ohayami Trans_2.JPG)
+![A narrow corridor leading to the Ohayami Trans booking office](<Ohayami Trans_2.JPG>)
 
-![An Ohayami Trans night bus displaying Banaue as its destination](Ohayami Trans_3.JPG)
+![An Ohayami Trans night bus displaying Banaue as its destination](<Ohayami Trans_3.JPG>)
 
 
 <details>
