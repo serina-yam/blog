@@ -30,7 +30,7 @@ Banaue had been on my travel wish list for a long time, so I could hardly contai
 <details>
   <summary>Meals</summary>
 
-![lunch](lunch.jpg)
+![alt text](lunch.JPG)
 
 </details>
 
