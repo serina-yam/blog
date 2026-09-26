@@ -18,7 +18,8 @@ I ordered niku udon this time, but I would love to try a lighter udon with dashi
 ![A bowl of niku udon topped with beef, green onions, and tempura on the side](marugame_2.JPG)
 
 The bus terminal was a little narrow and old-fashioned, but that somehow made the journey feel even more adventurous.  
-Banaue had been on my travel wish list for a long time, so I could hardly contain my excitement.
+After deciding to study in Baguio, I looked into places to visit and found Banaue.  
+I was really looking forward to the trip.
 
 ![Entrance to the Ohayami Trans bus terminal, with a sign for buses to Banaue and Lagawe](<Ohayami Trans_1.JPG>)
 
