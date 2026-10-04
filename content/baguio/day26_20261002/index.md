@@ -11,8 +11,6 @@ There was a power outage while I was having breakfast.
 It was already the second one since I came here.  
 This is Philippine life, I guess 😂
 
-<video controls src="ap%2Fuploads%2F97fa4b68-e6a0-589d-bc44-6d34671aa877%2F1790899842698-c651e6be98d95f6c40314ca144142ce5.MOV" title="Power outage during breakfast"></video>
-
 I also saw a huge stack of bags of rice on the first floor.  
 Apparently, the school is very well prepared.
 
