@@ -12,8 +12,8 @@ I moved from the IELTS Campus to the Main Campus.
 I already miss Chapis Village😭  
 One of my favorite things there was sitting around the big table in front of the entrance and chatting with my friends.
 
-That said, I really like my new room!
-Even though I share the room with four other students, each space is separated, so mine almost feels like a tiny private room.
+That said, I really like my new room!  
+Even though I share the room with four other students, each space is separated, so mine almost feels like a tiny private room.  
 It looks like I'll be able to focus on studying pretty well here... hopefully 😂
 
 ![My little study space at the Main Campus](IMG_6105.JPG)
@@ -25,8 +25,8 @@ I'd been looking forward to it!
 
 After that, I went to Mt. Cloud Bookshop, which my former roommate had recommended to me.
 
-It was such a lovely little bookstore.
-I ended up buying a book, some postcards, and a tote bag.
+It was such a lovely little bookstore.  
+I ended up buying a book, some postcards, and a tote bag.  
 Apparently, I moved campuses and immediately found another way to add to my luggage 🙄
 
 I've tried reading books in English a few times before, and I'm giving it another shot!  
