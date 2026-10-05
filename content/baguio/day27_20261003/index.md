@@ -39,6 +39,12 @@ We also got crepes for dessert.
 They looked amazing and, thankfully, tasted just as good!  
 Mine came with ice cream and colorful sprinkles - basically happiness wrapped in a crepe 🍦✨
 
+![Baguio Night Market](IMG_6012.jpg)
+
+![Crepes being made at the night market](IMG_6019.jpg)
+
+![Crepes with ice cream and colorful sprinkles](IMG_6024.jpg)
+
 <details>
   <summary>Original</summary>
 
