@@ -14,7 +14,8 @@ They weren't bad at all, although I was hoping to get an overall score of 6.0.
 I was sooo close! If my Listening score had been 6.0, I could have gotten an overall 6.0 😭  
 But on the bright side, I got a 5.5 in Speaking for the first time!
 
-![MONTHLY IELTS MOCK TEST REPORT](MONTHLY IELTS MOCK TEST REPORT.png)
+![MONTHLY IELTS MOCK TEST REPORT](mocktest_report.png)
+
 
 I think my main weaknesses are spelling and vocabulary, as well as coming up with answers quickly in the Speaking test.
 
