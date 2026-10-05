@@ -19,11 +19,11 @@ I'd never tried lechon before, so I guess I got pretty lucky!
 <details>
   <summary>Meals</summary>
 
-![breakfast](breakfast.jpg)
+![breakfast](breakfast.JPG)
 
 ![lunch](lunch.jpg)
 
-![dinner](dinner.jpg)
+![dinner](dinner.JPG)
 
 </details>
 
